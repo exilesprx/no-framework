@@ -1,0 +1,16 @@
+{
+    "name": "exilesprx/no-framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Exilesprx",
+            "email": "campbell.andrew86@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": "~7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
